@@ -1,0 +1,947 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.banner{height:750px;
+background:url(../image/restr-web_01.png) no-repeat;
+background-size:100%;
+color:#FFF;
+font-size:36px;
+z-index:-999;}
+
+
+#manu{color:#b00000;}
+
+
+
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border-color: #ffffff;
+}
+#taste{font-family:'Great Vibes', cursive;
+font-size:70px;
+margin-top:250px;}
+
+
+
+.flat-butt {
+  width: 200px;
+  
+}
+
+.flat-butt {
+  display: inline-block;
+  margin: 52px 5px;
+  border-radius: 0px;
+  font-family: "Lato", sans-serif;
+  font-size: 16.5px;
+  padding: 12px 20px;
+  border: 0;
+  background: #FFF;
+  color: #000;
+  cursor: pointer;
+  outline: 0;
+  
+}
+.flat-butt:hover {
+  background:#b00000;
+  color:#FFF;
+}
+
+.editnavbar{margin-bottom:0px;
+ background-color:#b00000;
+ border:#FFF;
+ color:#FFF;
+ height:100px;
+ font-size:17px;
+ position:absolute;
+ top:750px;
+ width:100%;
+ border-radius:0px;
+ border-bottom:0px;
+ }
+ 
+.editnavbar1 {
+    margin-bottom: 0px;
+    background-color: #b00000;
+    border: #FFF;
+    color: #FFF;
+    height: 100px;
+    font-size: 17px;
+    
+    width: 100%;
+    border-radius: 0px;
+    border-bottom: 0px;
+	display:none;
+} 
+ 
+ .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: #b00000;
+    background-color: #ffffff;
+	    height: 100px;
+	
+}
+ 
+.navbar-inverse .navbar-nav>li>a {
+    color: #ffffff;
+	    padding-top: 48px;
+} 
+ 
+ 
+ 
+ .flat-buttt {
+ 
+  border-radius:5px;
+  font-family: "Lato", sans-serif;
+  font-size: 16.5px;
+  padding: 12px 20px;
+  border: 0;
+  background: #FFF;
+  color: #b00000;
+  cursor: pointer;
+  outline: 0;
+      width: 253px;
+	      height: 55px;
+		  margin-top: 28px;
+    
+
+}
+.flat-buttt:hover {
+  background:#none;
+  color:none;
+}
+ 
+.welcome{height:auto;
+           
+		       margin-top: 101px;
+			   font-family:'Great Vibes', cursive;
+			   font-size:55px;
+			   color:#333333;
+			   padding-top:50px;
+			 }
+			   
+			   
+			   
+.welcome1{height:auto;
+           
+		       
+			   font-family:'Great Vibes', cursive;
+			   font-size:55px;
+			   color:#333333;
+			   padding-top:40px;
+			   margin-bottom:20px;}			   
+			   
+			   
+			   
+			   
+			   
+			   
+ 
+ 
+ .cap{height:auto;
+ overflow:hidden;
+
+ margin-bottom:30px;
+         }
+ 
+ 
+.passion{height:auto;
+           
+		      
+			   font-family:'Great Vibes', cursive;
+			   font-size:40px;
+			   color:#333333;
+			  
+			   margin-bottom:9px;}
+ 
+.soul{height:auto;
+           
+			   font-size:30px;
+			   color:#333333;
+			  
+			   margin-bottom:30px;}
+ 
+ 
+.soul1{height:auto;
+           
+			   font-size:18px;
+			   color:#333333;
+			  
+			   margin-bottom:30px;} 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+.cream{height:320px;
+      
+	   padding:0px;
+	   overflow:hidden;} 
+ 
+.detils{height:320px;
+       
+	   color:#333333;
+	   font-size:18px;
+	   
+	   overflow:hidden;
+	 }
+	 
+	 
+	 
+.cream1{height:320px;
+      
+	   padding:0px;
+	   overflow:hidden;} 
+ 
+.detils1{height:320px;
+       
+	   color:#333333;
+	   font-size:18px;
+	   
+	   overflow:hidden;
+	   margin-top:30px;
+	 }	 
+	 
+	 
+#discover{font-size:28px;
+      color:#b00000;
+	  padding-top:5px;
+	  margin-top:30px;} 
+ 
+
+ 
+ 
+.read{
+ 
+  border-radius:5px;
+  font-family: "Lato", sans-serif;
+  font-size: 16.5px;
+  padding: 12px 20px;
+ 
+  background: #FFF;
+  color: #b00000;
+  cursor: pointer;
+  outline: 0;
+      width: 179px;
+	      height: 55px;
+		  margin-top:60px;
+		  border-color:#b00000;
+		  
+
+}
+.read:hover {
+  background:#b00000;
+  color:#FFF;
+}
+ 
+ 
+  	 
+.read1{
+ 
+  border-radius:5px;
+  font-family: "Lato", sans-serif;
+  font-size: 16.5px;
+  padding: 12px 20px;
+ 
+  background: #FFF;
+  color: #b00000;
+  cursor: pointer;
+  outline: 0;
+      width: 179px;
+	      height: 55px;
+		  margin-top:4px;
+		  border-color:#b00000;
+
+}
+
+ .read1:hover {
+  background:#b00000;
+  color:#FFF;
+}
+ 
+ 
+.serviceimg{height:340px;
+            background-color:#06C;
+			padding:0px;}
+ 
+ 
+ 
+.open{height:500px;
+      background:url(../image/02.jpg) no-repeat;
+	  background-size:100% 100%;
+	  margin-top:30px;
+	  color:#FFF;
+	  font-size:23px;
+	  padding-top:100px;}
+ 
+ 
+ 
+#hour{ font-family:'Great Vibes', cursive;
+      font-size:38px;
+	  }
+ 
+ 
+ hr{width:250px;}
+ 
+ 
+ 
+ 
+.hour {
+    border-radius: 5px;
+    font-family: "Lato", sans-serif;
+    font-size: 16.5px;
+    padding: 12px 20px;
+    color: #ffffff;
+    cursor: pointer;
+    outline: 0;
+    width: 179px;
+    height: 55px;
+    margin-top: 56px;
+    border-color: #ffffff;
+    background: none;
+}
+
+ .hour:hover {
+  background:#b00000;
+  color:#FFF;
+  border-color:none;
+
+  border:none;
+}
+ 
+ 
+.menubox{height:350px;
+margin-bottom:40px;
+         }
+ 
+.menudetils{height:350px;
+         background-color:#f9f9f9;
+		 padding:0px;
+		 padding-top:60px;
+		 font-size:18px;
+		 
+		}
+ 
+.menuimg{height:310px;
+         background-color:#f9f9f9;
+		  padding:0px;}
+ 
+ 
+#red{font-size:26px;
+margin-bottom:30px;}
+ 
+#green{color:#b00000;
+font-size:24px;
+margin-top:40px}
+ 
+ 
+ 
+.serviceimg1{height:450px;
+            background-color:#06C;
+			padding:0px;}
+ 
+ 
+.happy{height:350px;
+       background:url(../image/counter-up.png) no-repeat;
+	   background-size:100% 100%;
+	   margin-top:30px;} 
+ 
+ 
+.coundernum{height:350px;
+       
+	   color:#FFF;
+	   padding-top:100px;
+	   font-size:27px}  
+ 
+ 
+ 
+ 
+ #six {
+    font-size: 60px;
+}
+ 
+.contactcontent{height:300px;
+               
+                padding-top:45px;}	
+ 
+ #message{height:220px;
+padding: 38px 33px 184px 21px;}
+ 
+.form-control {
+    height: 54px;
+    margin-bottom: 30px; 
+}
+ 
+ 
+ 
+.sentcn{height:100px;
+margin-top:20px;
+margin-bottem:20px;} 
+ 
+ 
+ 
+ .contactview{
+ 
+  border-radius:5px;
+  font-family: "Lato", sans-serif;
+  font-size: 16.5px;
+  padding: 12px 20px;
+ 
+  background: #FFF;
+  color: #b00000;
+  cursor: pointer;
+  outline: 0;
+      width: 179px;
+	      height: 55px;
+		  margin-top:4px;
+		  border-color:#b00000;
+
+}
+
+ .contactview:hover {
+  background:#b00000;
+  color:#FFF;
+}
+ 
+ 
+ 		  
+.footer{height:250px;
+        background:url(../image/D-_sherin-shaju_bostrap-final_2018-work_boostrap-m10_res-web_restr-web_02.png) no-repeat;
+		background-size:100%;
+		overflow:hidden;}		  
+		  
+		  
+.footerdetiles{height:300px;
+          padding-top:30px;
+       
+		font-size:15px;
+		color:#FFF;}
+				  
+#footerpr{font-size:20px;
+}	
+ 
+ 				  
+#footerpr1{font-size:20px;
+margin-bottom:-40px;}
+ 
+.footer1{height:auto;
+        background-color:#363636;
+		color:#FFF;
+		padding-top:10px;}	
+ 
+#mm{margin-top:70px;
+font-size:28px;}
+ 
+ .footerdetiles1{height:300px;
+          padding-top:30px;
+       
+		font-size:28px;
+		color:#FFF;}
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  @media screen and (max-width:1318px) {
+
+
+.editnavbar {
+    margin-bottom: 0px;
+    background-color: #b00000;
+    border: #FFF;
+    color: #FFF;
+    height: 100px;
+    font-size: 17px;
+    position: absolute;
+    top: 690px;
+    width: 100%;
+    border-radius: 0px;
+    border-bottom: 0px;
+} 
+ 
+ 
+  }
+ 
+ 
+ 
+ 
+  @media screen and (max-width:1199px) {
+	 
+
+
+#taste{font-family:'Great Vibes', cursive;
+font-size:70px;
+margin-top:100px;}
+	 
+
+.banner{height:669px;
+background:url(../image/restr-web_01.png) no-repeat;
+background-size:100%;
+color:#FFF;
+
+} 	 
+	 
+.welcome {
+    height: auto;
+    margin-top: 0px;
+    font-family: 'Great Vibes', cursive;
+    font-size: 55px;
+    color: #333333;
+    padding-top: 50px;
+}
+
+
+
+ 
+.editnavbar {
+    margin-bottom: 0px;
+    background-color: #b00000;
+    border: #FFF;
+    color: #FFF;
+    height: 100px;
+    font-size: 17px;
+    position: absolute;
+    top: 663px;
+    width: 100%;
+    border-radius: 0px;
+    border-bottom: 0px;
+	display:none;
+	z-index:999;
+}	 
+
+
+.editnavbar1 {
+    margin-bottom: 0px;
+    background-color: #b00000;
+    border: #FFF;
+    color: #FFF;
+    height: 100px;
+    font-size: 17px;
+    
+    width: 100%;
+    border-radius: 0px;
+    border-bottom: 0px;
+	display:block;
+} 	 
+	 
+.flat-butt {
+  display: inline-block;
+  margin: 4px 5px;
+  border-radius: 0px;
+  font-family: "Lato", sans-serif;
+  font-size: 16.5px;
+  padding: 12px 20px;
+  border: 0;
+  background: #FFF;
+  color: #000;
+  cursor: pointer;
+  outline: 0;
+}	 
+	
+	
+
+ .flat-buttt {
+  display: inline-block;
+  margin:23px 5px;
+  border-radius:5px;
+  font-family: "Lato", sans-serif;
+  font-size: 16.5px;
+  padding: 12px 20px;
+  border: 0;
+  background: #FFF;
+  color: #b00000;
+  cursor: pointer;
+  outline: 0;
+      width: 253px;
+	      height: 55px;
+
+}	
+	
+	
+.read{
+ 
+  border-radius:5px;
+  font-family: "Lato", sans-serif;
+  font-size: 16.5px;
+  padding: 12px 20px;
+ 
+  background: #FFF;
+  color: #b00000;
+  cursor: pointer;
+  outline: 0;
+      width: 179px;
+	      height: 55px;
+		  margin-top:0px;
+		  border-color:#b00000;
+
+}	
+	
+	 
+	 
+	 }
+	 
+	 
+	 
+	 
+ @media screen and (max-width: 998px) {
+	 
+
+
+#taste{font-family:'Great Vibes', cursive;
+font-size:70px;
+margin-top:40px;}
+	 
+	 
+.editnavbar {
+    margin-bottom: 0px;
+    background-color: #b00000;
+    border: #FFF;
+    color: #FFF;
+    height: 100px;
+    font-size: 17px;
+    position: absolute;
+    top: 549px;
+    width: 100%;
+    border-radius: 0px;
+    border-bottom: 0px;
+}	 
+	 
+	 
+
+.flat-butt {
+  display: inline-block;
+  margin: 4px 5px;
+  border-radius: 0px;
+  font-family: "Lato", sans-serif;
+  font-size: 16.5px;
+  padding: 12px 20px;
+  border: 0;
+  background: #FFF;
+  color: #000;
+  cursor: pointer;
+  outline: 0;
+}	 	 
+.flat-buttt {
+    display: inline-block;
+    margin: 23px 5px;
+    border-radius: 5px;
+    font-family: "Lato", sans-serif;
+    font-size: 10.5px;
+    padding: 12px 20px;
+    border: 0;
+    background: #FFF;
+    color: #b00000;
+    cursor: pointer;
+    outline: 0;
+    width: 120px;
+    height: 50px;
+}	 
+	 
+.coundernum{height:350px;
+       
+	   color:#FFF;
+	   padding-top:100px;
+	   font-size:20px}	 
+	 
+
+.banner{height:550px;
+background:url(../image/restr-web_01.png) no-repeat;
+background-size:100%;
+color:#FFF;
+
+} 	 
+	 
+.welcome {
+    height: auto;
+    margin-top: 0px;
+    font-family: 'Great Vibes', cursive;
+    font-size: 55px;
+    color: #333333;
+    padding-top: 50px;
+}	 
+	 }
+	 
+	 
+	 
+
+	 
+
+ @media screen and (max-width: 767px) {
+	 
+ 
+.cream{height:auto;
+      
+	   padding:0px;
+	   overflow:hidden;
+	   } 
+ 
+.detils{height:auto;
+       
+	   color:#333333;
+	   font-size:18px;
+	   
+	   overflow:hidden;
+	   text-align:center;
+	 }
+	 
+	 
+	 
+.cream1{height:auto;
+    text-align:center;
+	   padding:0px;
+	   overflow:hidden;
+	   margin-top:30px
+	   } 
+ 
+.detils1{height:auto;
+       
+	   color:#333333;
+	   font-size:18px;
+	    text-align:center;
+	   overflow:hidden;
+	   margin-top:30px;
+	 }	 
+
+	 
+.menubox{height:350px;
+margin-bottom:400px;
+         }	 
+	 
+	 
+
+.happy{height:auto;
+       background:url(../image/counter-up.png) no-repeat;
+	   background-size:100% 100%;
+	   margin-top:30px;} 
+	   
+ 	 
+.coundernum{height:350px;
+       
+	   color:#FFF;
+	   padding-top:100px;
+	   font-size:27px}	
+	    
+.footer{height:auto;
+        background:#363636 no-repeat;
+		background-size:100%;
+		overflow:hidden;}	 
+
+.banner{height:418px;
+background:url(../image/restr-web_01.png) no-repeat;
+background-size:100%;
+color:#FFF;
+
+} 	 
+	 
+.welcome {
+    height: auto;
+    margin-top: 0px;
+    font-family: 'Great Vibes', cursive;
+    font-size: 55px;
+    color: #333333;
+    padding-top: 50px;
+}	 
+.editnavbar1 {
+    margin-bottom: 0px;
+    background-color: #b00000;
+    border: #FFF;
+    color: #FFF;
+    height: 100%;
+    font-size: 17px;
+    width: 100%;
+    border-radius: 0px;
+    border-bottom: 0px;
+    display: block;
+}
+	 }	 	 
+	 
+	 
+	 
+	 	 
+	 
+	 
+	 
+	 
+
+ @media screen and (max-width: 628px) {
+	 
+
+
+#taste{font-family:'Great Vibes', cursive;
+font-size:65px;
+margin-top:0px;}
+	 
+	 
+	 
+.flat-butt {
+    display: inline-block;
+    margin: 2px 5px;
+    border-radius: 0px;
+    font-family: "Lato", sans-serif;
+    font-size: 16.5px;
+    padding: 12px 20px;
+    border: 0;
+    background: #FFF;
+    color: #000;
+    cursor: pointer;
+    outline: 0;
+}
+
+
+	 	 
+	 
+	 
+	 
+	 
+	 }	 	 
+	 
+	 
+	 
+	 
+
+ @media screen and (max-width: 587px) {
+	 
+
+
+#taste{font-family:'Great Vibes', cursive;
+font-size:40px;
+margin-top:0px;}
+	 
+	 
+	 
+.flat-butt {
+    display: inline-block;
+    margin: 2px 5px;
+    border-radius: 0px;
+    font-family: "Lato", sans-serif;
+    font-size: 16.5px;
+    padding: 12px 20px;
+    border: 0;
+    background: #FFF;
+    color: #000;
+    cursor: pointer;
+    outline: 0;
+}
+
+.banner{height:320px;
+background:url(../image/restr-web_01.png) no-repeat;
+background-size:100%;
+color:#FFF;
+font-size:30px;
+} 
+	 
+	 
+	 
+	 
+	 
+	 }	 	 
+	 
+	 
+	 
+ @media screen and (max-width: 400px) {
+	 
+
+
+#taste{font-family:'Great Vibes', cursive;
+font-size:30px;
+margin-top:0px;}
+	 
+	 
+	 
+.flat-butt {
+    display: inline-block;
+    margin: 2px 5px;
+    border-radius: 0px;
+    font-family: "Lato", sans-serif;
+    font-size: 16.5px;
+    padding: 12px 20px;
+    border: 0;
+    background: #FFF;
+    color: #000;
+    cursor: pointer;
+    outline: 0;
+}
+
+ 
+
+.banner{height:215px;
+background:url(../image/restr-web_01.png) no-repeat;
+background-size:100%;
+color:#FFF;
+font-size:20px;
+} 
+		 
+	 
+	 
+	 
+	 
+	 }		
+	 
+	 
+	 
+	 
+	 
+ @media screen and (max-width: 298px) {
+	 
+
+
+#taste{font-family:'Great Vibes', cursive;
+font-size:15px;
+margin-top:0px;}
+	 
+	 
+	 
+.flat-butt {
+    display: inline-block;
+    margin: 2px 5px;
+    border-radius: 0px;
+    font-family: "Lato", sans-serif;
+    font-size: 16.5px;
+    padding: 12px 20px;
+    border: 0;
+    background: #FFF;
+    color: #000;
+    cursor: pointer;
+    outline: 0;
+}
+
+ 
+
+.banner{height:180px;
+background:url(../image/restr-web_01.png) no-repeat;
+background-size:100%;
+color:#FFF;
+font-size:18px;
+} 
+		 
+	 
+	 
+	 
+	 
+	 }		 	 	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	  	 
